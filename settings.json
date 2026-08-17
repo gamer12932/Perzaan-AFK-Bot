@@ -8,7 +8,7 @@
   "server": {
     "ip": "OSINTSMP.aternos.me",
     "port": 28520,
-    "version": "1.21.1"
+    "version": "1.21.3"
   },
   "position": {
     "enabled": true,
